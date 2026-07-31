@@ -1,5 +1,5 @@
-# Oasis Infobyte Internship Projects
-Welcome to my *Oasis Infobyte Internship Repository*.
+# Oasis Infobyte Internships Projects
+Welcome to my *Oasis Infobyte Internships Repository*.
 This repository contains the projects I completed during *seven virtual internship programs* at *Oasis Infobyte*. These internships helped me gain practical experience across software development, mobile application development, programming, data science, data analytics, and graphic design.
 # Internship Domains & Projects
 # 1. Web Development Internship
